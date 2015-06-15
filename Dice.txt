@@ -1,0 +1,15 @@
+A d20 is used for things like rolling initiative to see who gets to attack first. It is also used to teternime whether or not you hit a monster and whether or not you get a critical hit(usually at 20 followed by another 20) or if you critiacally miss(a 1 followed by another 1) If you critically hit, you do extra damage. If you critically fumble/miss, you usually drop your weapon or can hit another party member if you use something ranged. A d3, d6, and a d8 are used to determine damage of your attack depending on what the attack calls for. And the percentage die(the one that has 00-90 is used when you need to beat a percentage in certain situations.
+
+
+The d20 is the most important dice, in fact it's called "d20 system", and you use it for every throw as attack, save, or skill. All other dice are used for various reason: every weapon has its dice, every power has its dice... you'll find it in the description in the right part of the player book. It's Easy! :)
+
+
+
+the d20 is for Attack rolls(hitting), skills and saves 
+the d12, d10, d8, d6, and d4 are use for damage depending on your weapon (greataxe is d12) (waraxe d10) (d8 longsword) (handaxe d6) 
+
+the d90 (00-90) is pretty much only used by the dungeon master in combination with the d 10 so you can roll any number between 1 and 100 for the player it may be rolled occasionally for things like concealment or displacement and even some spells. 
+
+if you are playing a different version such as 4th e all your powers say what dice you use for each one 
+
+pretty much all the dice aren't used very much accept if you have a lot of way different weapons

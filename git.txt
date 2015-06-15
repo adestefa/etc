@@ -1,0 +1,20 @@
+Direct download: https://git-scm.com/download/win
+Git site: https://git-scm.com/
+
+
+git config --global user.name "YOUR NAME"
+git config --global user.email "YOUR EMAIL ADDRESS"
+
+
+Basic Git commands:
+git init       // initializes current directory into a git repository
+git pull
+git status  // shows status of your current changes
+gitk           // interactive user interface (GUI) to check changes
+git add .    // adds a file (by filename) or all files (by dot) to the stage
+git commit -m "I will commit the staged changes into the repository"
+git log        // will show list of commits and descriptions, use any key to move to next page or type 'q' to quit back to the $ prompt.
+git commit --amend  // allows you to edit the last commit if you make a mistake with typo or want to add/remove/edit a file
+
+
+Learn Version Control with Git Lecture: https://www.youtube.com/watch?v=Fwdg8-thBAc
